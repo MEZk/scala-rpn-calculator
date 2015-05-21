@@ -2,7 +2,7 @@
 
 Scala-calculator with operator precedence and parentheses.
 
-Operations performs with BigDecimal numbers.
+Operations perform with BigDecimal numbers.
 
 ###Supported operations:
 
